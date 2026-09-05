@@ -1,0 +1,5 @@
+__pycache__/
+data/*.csv
+.env
+.vscode/
+result_plot.png
